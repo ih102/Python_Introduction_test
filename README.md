@@ -8,3 +8,5 @@ author: Indra Sarah Heinrich
 - pandas
 - json
 - urllib
+
+ist das heute kompliziert und das wird auch immer so sein
