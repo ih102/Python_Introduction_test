@@ -2,6 +2,9 @@
 
 date: 2019-05-28
 
-author: Indra Heinrich
+author: Indra Sarah Heinrich
 
 
+- pandas
+- json
+- urllib
